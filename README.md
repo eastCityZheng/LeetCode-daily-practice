@@ -5,4 +5,4 @@
 ## 目录
 - [LeetCode]
   - [滑动窗口]
-	- [209-长度最小的子数组](https://github.com/eastCityZheng/LeetCode-daily-practice.git)
+	- [209-长度最小的子数组](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO209.md)
