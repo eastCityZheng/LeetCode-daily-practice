@@ -15,3 +15,7 @@
 	- [53-最大子序和-c-easy](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO53_2.md)
 - [Map]
 	- [855-考场就座-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO855.md)
+- [字符串]
+	- [67-二进制求和-c-easy](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO67.md)
+- [二分法]
+	- [792-匹配子序列的单词数-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO792.md)
