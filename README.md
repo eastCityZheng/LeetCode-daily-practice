@@ -27,3 +27,6 @@
 - [数组]
 	- [566-重塑矩阵-c-easy](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO566.md)
 	- [565-数组嵌套-c-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO565.md)
+	- [976-三角形的最大周长-python-easy](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO976.md)
+- [二叉搜索树]
+	- [938-二叉搜索树的范围和-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO938.md)
