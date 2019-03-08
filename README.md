@@ -8,8 +8,8 @@
 - [栈]
 	- [402-移掉k位数字-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO402.md)
 - [深度优先搜索]
-	- [529-扫雷游戏-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/
-	- [638-大礼包-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO638.md)NO529.md)
+	- [529-扫雷游戏-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO529.md)
+	- [638-大礼包-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO638.md)
 	- [749-隔离病毒-python-hard](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO749.md)
 - [动态规划]
 	- [53-最大子序和-c-easy](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO53.md)
