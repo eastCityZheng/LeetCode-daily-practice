@@ -39,8 +39,13 @@
 - [哈希表]
 	- [676-实现一个魔法字典-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO676.md)
 - [回溯]
+	- [17-电话号码的字母组合-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO17.md)
 	- [216-组合总和 III-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO216.md)
 - [双指针]
 	- [904-水果成篮-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO904.md)
 - [贪心]
 	- [55-跳跃游戏-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO55.md)
+- [位运算]
+	- [461-汉明距离-python-easy](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO641.md)
+- [不知如何分类]
+	- [4-寻找两个有序数组的中位数-python-hard](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO4.md)
