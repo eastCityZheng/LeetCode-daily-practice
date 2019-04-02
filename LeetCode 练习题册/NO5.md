@@ -33,13 +33,13 @@ s_new: #  a  #  a  #  b  #  a  #  b  #  b  #  a  #
  一共图中三种情况，sub_midd是当前i之前最右端的回文长度最长的中心位置。sub_side和2sub_midd-sub_side分别是sub_midd的右端和左端
  j 为i以sub_midd对称的位置。2Len[i]-1为i的对称长度。
  
- ![avatar](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/imgs/NO5_1.png)
+ ![avatar](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/imgs/NO5_1.png)  
  当Len[j] < sub_side-i 说明以s_new[i]为中心的最长回文串未超出，因为以sub_midd对称 所以Len[j]=Len[i]
  
- ![avatar](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/imgs/NO5_2.png)
+ ![avatar](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/imgs/NO5_2.png)  
  当Len[j] >= sub_side-i 说明以s_new[i]为中心的最长回文串超出了sub_side 所以要从sub_side开始匹配
  
- ![avatar](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/imgs/NO5_3.png)
+ ![avatar](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/imgs/NO5_3.png)  
  当sub_side<i 则 i 只能老老实实从最旁边的开始匹配了
  
 #### 代码
