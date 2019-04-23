@@ -50,6 +50,7 @@
 	- [998-最大二叉树 II-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO998.md)
 - [哈希表]
 	- [3-无重复字符的最长子串-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO3.md)
+	- [30-串联所有单词的子串-python-hard](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO30.md)
 	- [676-实现一个魔法字典-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO676.md)
 - [回溯]
 	- [17-电话号码的字母组合-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO17.md)
@@ -59,6 +60,7 @@
 	- [11-盛最多水的容器-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO11.md)
 	- [15-三数之和-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO15.md)
 	- [18-四数之和-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO18.md)
+	- [30-串联所有单词的子串-python-hard](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO30.md)
 	- [904-水果成篮-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO904.md)
 - [贪心]
 	- [55-跳跃游戏-python-medium](https://github.com/eastCityZheng/LeetCode-daily-practice/blob/master/LeetCode%20%E7%BB%83%E4%B9%A0%E9%A2%98%E5%86%8C/NO55.md)
